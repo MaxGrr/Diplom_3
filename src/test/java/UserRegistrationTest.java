@@ -4,9 +4,9 @@ import org.apache.commons.lang3.RandomStringUtils;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import testBase.LoginPage;
-import testBase.MainPage;
-import testBase.RegistrationPage;
+import pageobjects.LoginPage;
+import pageobjects.MainPage;
+import pageobjects.RegistrationPage;
 
 import static com.codeborne.selenide.Selenide.open;
 import static com.codeborne.selenide.Selenide.page;

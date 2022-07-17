@@ -2,7 +2,7 @@ import com.codeborne.selenide.WebDriverRunner;
 import io.qameta.allure.junit4.DisplayName;
 import org.junit.After;
 import org.junit.Test;
-import testBase.MainPage;
+import pageobjects.MainPage;
 
 import static com.codeborne.selenide.Selenide.open;
 import static com.codeborne.selenide.WebDriverRunner.getWebDriver;

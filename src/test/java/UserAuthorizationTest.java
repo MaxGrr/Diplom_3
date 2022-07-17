@@ -3,10 +3,10 @@ import io.qameta.allure.junit4.DisplayName;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import testBase.LoginPage;
-import testBase.MainPage;
-import testBase.RecoveryPasswordForm;
-import testBase.RegistrationPage;
+import pageobjects.LoginPage;
+import pageobjects.MainPage;
+import pageobjects.RecoveryPasswordForm;
+import pageobjects.RegistrationPage;
 
 import java.util.Map;
 

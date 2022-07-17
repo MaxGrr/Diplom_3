@@ -3,9 +3,9 @@ import io.qameta.allure.junit4.DisplayName;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import testBase.LoginPage;
-import testBase.MainPage;
-import testBase.UserProfilePage;
+import pageobjects.LoginPage;
+import pageobjects.MainPage;
+import pageobjects.UserProfilePage;
 
 import java.util.Map;
 
